@@ -1,0 +1,23 @@
+# Website Progress
+
+- UI/UX
+- Frontend
+- Backend
+    - Database
+    - Automatic updates about order from the brand on SWH
+    - Search Bar
+    - Filters
+    - Chat Forum
+    - Share feature
+    - Review & Rating System
+    - Brand registration
+    - Customer registration
+    - email us/ contact us
+    - Price comparison
+    - Payment gateways
+    - Billing system
+    - Add to cart
+    - wishlist
+    - Location tracking and estimated delivery time (if shipping service provided)
+    - Return ,refund ,cancellation
+- Domain name
