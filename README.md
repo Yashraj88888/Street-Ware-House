@@ -8,5 +8,8 @@ This repository contains exported Notion materials documenting market research f
 <br>
 ## Project by:
 <br>
-### Yashraj Sakunde <br>
+
+### Yashraj Sakunde 
+<br>
+
 ### Yashvardhan Singh
