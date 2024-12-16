@@ -6,7 +6,7 @@ This repository contains exported Notion materials documenting market research f
 
 ** To ensure proper viewing of all content and links, it is recommended to download the repository as a .zip file rather than accessing individual files directly on GitHub.**
 <br>
-Project by:
+## Project by:
 <br>
-Yashraj Sakunde <br>
-Yashvardhan Singh
+### Yashraj Sakunde <br>
+### Yashvardhan Singh
